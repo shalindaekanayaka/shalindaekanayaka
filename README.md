@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shalinda+Ekanayaka;Developer+from+Sri+Lanka;" />
 </h1>
 
+<!-- Header picture -->
+<div align="center">
+    <img src="https://example.com/your-header-image.jpg" alt="Header Image" />
+</div>
+
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <br/>
@@ -64,6 +69,33 @@
 </div>
 
 <br/><br/>
+<hr/>
+
+<!-- Software Engineer GIF -->
+<div align="center">
+  <img src="https://example.com/your-software-engineer-gif.gif" alt="Software Engineer GIF" />
+</div>
+
+<h2 align="center">🛠 Skills 🛠</h2>
+<br/>
+<div align="center">
+  <h3>Programming Languages</h3>
+  <p>Java, JavaScript, PHP, Python</p>
+  
+  <h3>Frontend Development</h3>
+  <p>React, CSS3, HTML5, Angular, Bootstrap</p>
+  
+  <h3>Backend Development</h3>
+  <p>Node.js, Spring, Express</p>
+  
+  <h3>Database</h3>
+  <p>MongoDB, MySQL, MariaDB</p>
+  
+  <h3>Software</h3>
+  <p>Illustrator, Photoshop, Figma, MATLAB, Postman</p>
+</div>
+
+<br/>
 <hr/>
 
 <h3 align="center">
