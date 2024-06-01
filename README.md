@@ -26,9 +26,9 @@
  
  🌱 I’m currently learning **Java, Python, Angular, Node.js, React Native**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything
 
- ⚡ Fun fact ****
+ ⚡ Fun fact **I love coding challenges and hackathons!**
  
  </div>
  
@@ -49,8 +49,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma," />
 </div>
 
 <br/>
