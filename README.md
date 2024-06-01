@@ -4,10 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shalinda+Ekanayaka;Developer+from+Sri+Lanka;" />
 </h1>
 
+
+
 <!-- Header picture -->
 <div align="center">
-    <img src="https://example.com/your-header-image.jpg" alt="Header Image" />
+    <img src="https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" alt="Header Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 50%;" />
 </div>
+
+
+
+
+
 
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
@@ -69,33 +76,6 @@
 </div>
 
 <br/><br/>
-<hr/>
-
-<!-- Software Engineer GIF -->
-<div align="center">
-  <img src="https://example.com/your-software-engineer-gif.gif" alt="Software Engineer GIF" />
-</div>
-
-<h2 align="center">🛠 Skills 🛠</h2>
-<br/>
-<div align="center">
-  <h3>Programming Languages</h3>
-  <p>Java, JavaScript, PHP, Python</p>
-  
-  <h3>Frontend Development</h3>
-  <p>React, CSS3, HTML5, Angular, Bootstrap</p>
-  
-  <h3>Backend Development</h3>
-  <p>Node.js, Spring, Express</p>
-  
-  <h3>Database</h3>
-  <p>MongoDB, MySQL, MariaDB</p>
-  
-  <h3>Software</h3>
-  <p>Illustrator, Photoshop, Figma, MATLAB, Postman</p>
-</div>
-
-<br/>
 <hr/>
 
 <h3 align="center">
